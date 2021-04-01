@@ -165,8 +165,7 @@ int main()
   RandomCompareWithBoostIcl();
 
   std::cout << "Done" << std::endl;
-
-  std::cin.get();
-	return 0;
+  
+  return 0;
 }
 
